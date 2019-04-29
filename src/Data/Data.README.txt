@@ -1,0 +1,2 @@
+DATA DIRECTORY README
+How to use the data directory.

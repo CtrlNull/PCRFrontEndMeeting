@@ -1,0 +1,2 @@
+COMPONENTS DIRECTORY README
+How to use the components directory.
